@@ -25,10 +25,11 @@ Based on Summary DataFrame:
 
 - For the Average Fare per Driver, the Urban driver is $16.57, Suburban is $39.50 and the highest is Rural driver which is $55.49. The reason is because their average distance of each ride is respectively longer than Suburban and Urban city, that's why the Rural drivers earn more fare than Suburban and Urban drivers averagely.
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/100378319/161168707-bed060a8-f497-43b6-88c5-aa2a03f37b7d.png)
-
 - For the 538 graph:it's showing the total fare by each city type from the date of Jan 6, 2019 to April 28, 2019 in weekly basis. 
 The total fare of Urban is highest among the others which is the top line of the graph, the Suburban is in the middle line and the bottom line is Rural which is the lowest total fare. The main reason is because there are more population and more rides in Urban city than others. There are more demands so that's why Urban has the highest total fare.
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/100378319/161168790-5b897b4e-552c-45f3-b70b-b61a331a437c.png)
+
 
 ## Summary: 
 
